@@ -35,7 +35,7 @@ int Potentiometer_1 = A0;
 int Potentiometer_2 = A1;
 int Potentiometer_3 = A2;
 int Potentiometer_4 = A3;
-int switch1 = 4;
+int switch1 = 10;
 int switch2 = 2;
 int switch3 = 3;
 

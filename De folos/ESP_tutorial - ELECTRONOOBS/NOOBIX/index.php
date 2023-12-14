@@ -1,7 +1,7 @@
 <?php
 //This line will make the page auto-refresh each 15 seconds
 $page = $_SERVER['PHP_SELF'];
-$sec = "15";
+$sec = "5";
 ?>
 
 
